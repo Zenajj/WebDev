@@ -1,3 +1,34 @@
+h1 {
+    text-align: center;
+    width: 50%;
+    font-weight: 400;
+    text-decoration: blue overline wavy;
+    letter-spacing: 10px;
+    font-size: 80px;
+    font-family: Verdana;
+}
+
 h2 {
-    color: indigo;
+    color: #5FCFFC;
+    background-color: rgb(89, 151, 0);
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+    background: orange;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+body {
+    background-color: rgb(128, 45, 196);
+}
+
+a {
+    text-decoration: none;
 }
